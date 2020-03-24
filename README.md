@@ -6,3 +6,7 @@ freeCodeCamp.org
 
 https://www.youtube.com/watch?v=3EMxBkqC4z0
 
+npm install 
+npm run start 
+
+
