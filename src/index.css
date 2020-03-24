@@ -1,0 +1,10 @@
+#gameScreen {
+  border: 1px solid black;
+}
+
+#img_ball {
+  display: none;
+  border: 0.2px solid black;
+  border-radius: 50%;
+
+}

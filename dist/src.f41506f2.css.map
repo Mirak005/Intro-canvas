@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"src.f41506f2.css","sourceRoot":"..","sourcesContent":["#gameScreen {\r\n  border: 1px solid black;\r\n}\r\n\r\n#img_ball {\r\n  display: none;\r\n  border: 0.2px solid black;\r\n  border-radius: 50%;\r\n\r\n}\r\n"]}
