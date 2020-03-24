@@ -1,4 +1,4 @@
-# Intro to HTML Canvas
+# Intro to Game Development with HTML Canvas
 HTML , css , javaScript 
 An introduction to game development tutorial using vanilla JavaScript and HTML5 canvas.
 Build a complete brick-breaker game while learning the fundamentals of game development.
